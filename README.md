@@ -6,7 +6,7 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 
 ### Homepage
 
-![""]()
+!["Homepage"](https://github.com/mcwolfe2011/jungle-rails/blob/master/docs/Homepage.jpg?raw=true)
 
 ## Setup
 
