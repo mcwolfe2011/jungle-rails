@@ -8,6 +8,28 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 
 !["Homepage"](https://github.com/mcwolfe2011/jungle-rails/blob/master/docs/Homepage.jpg?raw=true)
 
+### Product
+
+!["Homepage"](https://github.com/mcwolfe2011/jungle-rails/blob/master/docs/product.jpg?raw=true)
+
+### Homepage
+
+!["Cart"](https://github.com/mcwolfe2011/jungle-rails/blob/master/docs/my_cart.jpg?raw=true)
+
+### Payment
+
+!["Payment"](https://github.com/mcwolfe2011/jungle-rails/blob/master/docs/stripe_payment.jpg?raw=true)
+
+!["Ordered Products"](https://github.com/mcwolfe2011/jungle-rails/blob/master/docs/ordered_products.jpg?raw=true)
+
+!["Empty Cart"](https://github.com/mcwolfe2011/jungle-rails/blob/master/docs/empty_cart.jpg?raw=true)
+
+!["Admin > All Categories"](https://github.com/mcwolfe2011/jungle-rails/blob/master/docs/admin_all_categories.jpg?raw=true)
+
+!["Admin > New Category"](https://github.com/mcwolfe2011/jungle-rails/blob/master/docs/new_category.jpg?raw=true)
+
+!["Admin > Dashboard"](https://github.com/mcwolfe2011/jungle-rails/blob/master/docs/admin_dashboard.jpg?raw=true)
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
